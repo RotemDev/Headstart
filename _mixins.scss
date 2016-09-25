@@ -5,3 +5,20 @@
   border: 2px solid $color;
   border-radius: 4px;
 }
+
+// For the responsive Grid
+@mixin row() {
+  font-size: 0;
+}
+
+@mixin col($col, $sum, $gap: 1em, $align: top) {
+  width: 100%;
+  font-size: 16px;
+  display: inline-block;
+  box-sizing: border-box;
+
+  @media only screen and (min-width: 768px) {
+    width: percentage($col/$sum);
+    vertical-align: $align;
+  }
+}
