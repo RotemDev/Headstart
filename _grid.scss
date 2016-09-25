@@ -34,6 +34,7 @@ div.row {
   div.col-8, div.twothirds {
     @include col(8, 12);
   }
+  
   div.col-9, div.threequarters {
     @include col(9, 12);
   }
