@@ -1,6 +1,8 @@
 .sass-cache/
 *.css.map
 
+koala-config.json
+
 # =========================
 # Operating System Files
 # =========================
