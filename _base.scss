@@ -1,0 +1,9 @@
+html {
+  font: normal $basefont-style normal $basefont-size normal $basefont-family;
+  color: $basecolor-text;
+  background-color: $basecolor-background;
+}
+
+* {
+    box-sizing: border-box;
+}

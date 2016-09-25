@@ -1,0 +1,38 @@
+$color-primary: #333;
+$color-secondary: #ddd;
+
+// Info
+$color-info: #0093ff;
+$color-info-secondary: #acdcff;
+
+// Info div with border
+div.info {
+  @include kit-color($color-info, $color-info-secondary);
+}
+
+// Success
+$color-success: #05b212;
+$color-success-secondary: #62e66c;
+
+// Success div with border
+div.success {
+  @include kit-color($color-success, $color-success-secondary);
+}
+
+// Warning
+$color-warning: #ffbb33;
+$color-warning-secondary: #ffe763;
+
+// Warning div with border
+div.warning {
+  @include kit-color($color-warning, $color-warning-secondary);
+}
+
+// Danger
+$color-danger: #db0000;
+$color-danger-secondary: #ff9a9a;
+
+// Danger div with border
+div.danger {
+  @include kit-color($color-danger, $color-danger-secondary);
+}
