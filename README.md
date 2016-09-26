@@ -1,2 +1,0 @@
-# sass
-RotemDev Sass stylesheets.
