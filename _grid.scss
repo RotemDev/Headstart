@@ -3,51 +3,9 @@
 div.row {
   @include row();
   
-  div.col-1 {
-    @include col(1, 12);
-  }
-  
-  div.col-2 {
-    @include col(2, 12);
-  }
-  
-  div.col-3, div.quarter {
-    @include col(3, 12);
-  }
-  
-  div.col-4, div.third {
-    @include col(4, 12);
-  }
-  
-  div.col-5 {
-    @include col(5, 12);
-  }
-  
-  div.col-6, div.half {
-    @include col(6, 12);
-  }
-  
-  div.col-7 {
-    @include col(7, 12);
-  }
-  
-  div.col-8, div.twothirds {
-    @include col(8, 12);
-  }
-  
-  div.col-9, div.threequarters {
-    @include col(9, 12);
-  }
-  
-  div.col-10 {
-    @include col(10, 12);
-  }
-  
-  div.col-11 {
-    @include col(11, 12);
-  }
-  
-  div.col-12 {
-    @include col(12, 12);
+  @for $i from 1 through $cols {
+    div.col-#{$i} {
+      @include col($i, $cols);
+    }
   }
 }
