@@ -62,4 +62,4 @@ For example:
 ```
 
 ## Credits for things that we didn't make:
-Entypo+: Entypo pictograms by Daniel Bruce — <www.entypo.com>
+Entypo+: Entypo pictograms by Daniel Bruce — www.entypo.com
