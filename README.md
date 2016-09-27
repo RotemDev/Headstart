@@ -1,5 +1,8 @@
 # Headstart - Make beautiful webpages
 Headstart is a CSS framework.
+
+***We now have a release date! October 28<sup>th</sup>, 2016! (NOTE: The release date may change.)***
+
 ## Features:
 - [x] Brand Colors (Info, Success, Warning, Danger)
 - [x] Responsive Grid
