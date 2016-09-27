@@ -60,3 +60,6 @@ For example:
   <p><i class="enpl-chevron-right"></i> Example</p>
 </div>
 ```
+
+## Credits for things that we didn't make:
+Entypo+: Entypo pictograms by Daniel Bruce — <www.entypo.com>
