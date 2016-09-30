@@ -41,6 +41,8 @@ To use rawgit.com's CDN:
 ```
 
 To use self-hosting:
+
+Download Headstart from [here](), extract it somewhere in your website, then:
 ``` html
 <!-- main css file -->
 <link rel="stylesheet" href="path/to/rotem.min.css">
@@ -51,7 +53,7 @@ To use self-hosting:
 ```
 
 ## How to use icons
-The icons are completely optional, and if you want them, you must include the CSS file (see install section above).
+The icons are completely optional, and if you want them, you must include the `entypo.min.css` file (see install section above).
 
 To use the icons, add a `<i>` or a `<span>` with `class="enpl-XXX"` when `XXX` is the icon name. <br>
 For example:
