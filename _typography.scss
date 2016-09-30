@@ -1,0 +1,41 @@
+p {
+  font-size: $basefont-size;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: $basefont-size * 4;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: $basefont-size * 3;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: $basefont-size * 2;
+}
+
+h4 {
+  font-weight: bold;
+  font-size: $basefont-size;
+}
+
+h5 {
+  font-weight: bold;
+  font-size: $basefont-size * 0.75;
+}
+
+h6 {
+  font-weight: bold;
+  font-size: $basefont-size * 0.675;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  small {
+    font-weight: normal;
+    font-size: $basefont-size - 5px;
+    color: #868686;
+  }
+}
