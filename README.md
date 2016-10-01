@@ -56,12 +56,10 @@ Download Headstart from [here](), extract it somewhere in your website, then:
 ```
 
 ## How to use icons
-The icons are completely optional, and if you want them, you must include the `entypo.min.css` file (see install section above).
-
-To use the icons, add a `<i>` or a `<span>` with `class="enpl-XXX"` when `XXX` is the icon name. <br>
+To use the icons, add a `<i>` or a `<span>` with `class="ion-XXX"` when `XXX` is the icon name. <br>
 For example:
 ``` html
 <div class="col-3 success">
-  <p><i class="enpl-chevron-right"></i> Example</p>
+  <p><i class="ion-chevron-right"></i> Example</p>
 </div>
 ```
