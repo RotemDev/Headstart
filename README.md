@@ -6,7 +6,8 @@ Headstart is a CSS framework.
 ## Features:
 - [x] Brand Colors (Info, Success, Warning, Danger)
 - [x] Responsive Grid
-- [x] [Entypo+](http://www.entypo.com/) Icon font **(NOTE: The icon font is optional)**
+- [x] Typography
+- [x] [Entypo+](http://www.entypo.com/) Icon font
 - [ ] Navbars
 - [x] Mobile-first
 - [ ] Code views
@@ -18,14 +19,12 @@ Headstart is a CSS framework.
 - [ ] CDN / Self-hosting
 
 ## Install
-***Note: Currently, the only production-ready element is the Entypo+ Icon font. The rest of the files are currently marked as `"SOON"` but they will be added later.***
+***Note: The files that are currently marked as `"SOON"` but they will be added later.***
 
 To use raw.githack.com's CDN:
 ``` html
 <!-- main css file -->
 <link rel="stylesheet" href="SOON">
-<!-- Entypo+ Iconfont -->
-<link rel="stylesheet" href="https://rawcdn.githack.com/RotemDev/Headstart/ede2667d6a3446d82e4aac86bd563e31b9c097f0/css/entypo.min.css">
 <!-- JS file -->
 <script src="SOON"></script>
 ```
@@ -34,9 +33,15 @@ To use rawgit.com's CDN:
 ``` html
 <!-- main css file -->
 <link rel="stylesheet" href="SOON">
-<!-- Entypo+ Iconfont -->
-<link rel="stylesheet" href="https://cdn.rawgit.com/RotemDev/Headstart/ede2667d6a3446d82e4aac86bd563e31b9c097f0/css/entypo.min.css">
 <!-- JS file -->
+<script src="SOON"></script>
+```
+
+To use jsDelivr's awesome CDN ***RECCOMMENDED***:
+``` html
+<!-- Main CSS File -->
+<link rel="stylesheet" href="SOON">
+<!-- JS File -->
 <script src="SOON"></script>
 ```
 
@@ -46,8 +51,6 @@ Download Headstart from [here](), extract it somewhere in your website, then:
 ``` html
 <!-- main css file -->
 <link rel="stylesheet" href="path/to/rotem.min.css">
-<!-- Entypo+ Iconfont -->
-<link rel="stylesheet" href="path/to/entypo.min.css">
 <!-- JS file -->
 <script src="SOON"></script>
 ```
