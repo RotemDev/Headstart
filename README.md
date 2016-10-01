@@ -7,7 +7,7 @@ Headstart is a CSS framework.
 - [x] Brand Colors (Info, Success, Warning, Danger)
 - [x] Responsive Grid
 - [x] Typography
-- [x] [Entypo+](http://www.entypo.com/) Icon font
+- [x] [Ionicons](http://www.ionicons.com/) Icon font
 - [ ] Navbars
 - [x] Mobile-first
 - [ ] Code views
@@ -65,6 +65,3 @@ For example:
   <p><i class="enpl-chevron-right"></i> Example</p>
 </div>
 ```
-
-## Credits for things that we didn't make:
-Entypo+: Entypo pictograms by Daniel Bruce — www.entypo.com
