@@ -16,7 +16,7 @@ Headstart is a CSS framework.
 - [ ] Custom forms
 - [ ] Color palates
 - [ ] Carousels
-- [ ] CDN / Self-hosting
+- [x] CDN / Self-hosting
 
 ## Install
 ***Note: The files that are currently marked as `"SOON"` but they will be added later.***
