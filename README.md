@@ -1,5 +1,5 @@
 # Headstart - Make beautiful webpages
-Headstart is a CSS framework.
+Headstart is a CSS framework. [View us on jsDelivr](http://www.jsdelivr.com/projects/headstart-css)!
 
 ***We now have a release date! October 28<sup>th</sup>, 2016! (NOTE: The release date may change.)***
 
@@ -19,7 +19,7 @@ Headstart is a CSS framework.
 - [x] CDN / Self-hosting
 
 ## Install
-***Note: The files that are currently marked as `"SOON"` but they will be added later.***
+***Note: The files that are currently marked as `"SOON"` will be added later.***
 
 To use raw.githack.com's CDN:
 ``` html
