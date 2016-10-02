@@ -40,14 +40,14 @@ To use rawgit.com's CDN:
 To use jsDelivr's awesome CDN ***RECCOMMENDED***:
 ``` html
 <!-- Main CSS File -->
-<link rel="stylesheet" href="SOON">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/headstart-css/0.2.0/rotem.min.css" integrity="sha256-4bvNJpEHt1skyaVLIwuZy6LL6uloPeeJBnEJEHf9RQg=" crossorigin="anonymous">
 <!-- JS File -->
 <script src="SOON"></script>
 ```
 
 To use self-hosting:
 
-Download Headstart from [here](), extract it somewhere in your website, then:
+Download Headstart from [here](https://cdn.jsdelivr.net/headstart-css/0.2.0/headstart-css.zip), extract it somewhere in your website, then:
 ``` html
 <!-- main css file -->
 <link rel="stylesheet" href="path/to/rotem.min.css">
