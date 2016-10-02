@@ -63,3 +63,8 @@ For example:
   <p><i class="ion-chevron-right"></i> Example</p>
 </div>
 ```
+
+## Versioning
+The versioning system for stable releases is `MAJOR.MINOR.PATCH` (Semantic versioning).
+
+The versioning system for unstable (development) releases is `vMAJORDEV-YEARwWEEK-REVISION` (For example, the second release for v2 on week 21, 2017 is `v2-17w21-b`.)
