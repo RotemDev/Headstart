@@ -1,4 +1,8 @@
 // The Main file. will compile to `rotem.css` and `rotem.css.map`. Contains only @imports and comments.
+
+// Normalize.css
+@import "normalize";
+
 @import "variables";
 @import "mixins";
 
