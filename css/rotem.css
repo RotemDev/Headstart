@@ -408,8 +408,8 @@ textarea {
 
 html {
   font: normal normal normal 16px normal "Arial", sans-serif;
-  color: #222;
-  background-color: #dddddd;
+  color: #111111;
+  background-color: #eeeeee;
 }
 
 * {
@@ -3595,4 +3595,5 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 .ion-xbox:before {
   content: "\f30c";
 }
+
 /*# sourceMappingURL=rotem.css.map */

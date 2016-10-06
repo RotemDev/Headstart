@@ -40,7 +40,7 @@ To use rawgit.com's CDN:
 To use jsDelivr's awesome CDN ***RECCOMMENDED***:
 ``` html
 <!-- Main CSS File -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/headstart-css/0.2.0/rotem.min.css" integrity="sha256-4bvNJpEHt1skyaVLIwuZy6LL6uloPeeJBnEJEHf9RQg=" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/headstart-css/0.3.1/rotem.min.css">
 <!-- JS File -->
 <script src="SOON"></script>
 ```

@@ -1,0 +1,20 @@
+code {
+  background-color: $code-background;
+  color: $code-inline-text;
+  border: 2px solid $code-background;
+  border-radius: 3px;
+}
+
+pre.code, div.code {
+  font-family: monospace;
+  background-color: $code-background;
+  color: $code-text;
+}
+
+kbd {
+  font-family: monospace;
+  background-color: $basecolor-text;
+  color: $basecolor-background;
+  border: 2px solid $basecolor-text;
+  border-radius: 3px;
+}

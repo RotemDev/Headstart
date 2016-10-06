@@ -4,9 +4,13 @@ $basefont-size: 16px;
 $basefont-style: normal;
 
 // Base Colors
-$basecolor-text: #222;
+$basecolor-text: #111111;
 $basecolor-background: invert($basecolor-text);
 
 // Grid
 $cols: 12;
 
+// Code
+$code-background: darken($basecolor-background, 15);
+$code-text: lighten($basecolor-text, 5);
+$code-inline-text: #bb3434;
