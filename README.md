@@ -13,7 +13,7 @@ Headstart is a CSS framework.
 - [x] [Ionicons](http://www.ionicons.com/) Icon font
 - [ ] Navbars
 - [x] Mobile-first
-- [ ] Code views
+- [x] Code views
 - [ ] Responsive `<img>`s
 - [ ] Panels, Thumbnails, Cards
 - [ ] Custom forms

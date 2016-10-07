@@ -1,5 +1,9 @@
 @charset "UTF-8";
-/*! Headstart is a copyright of RotemDev. (C) RotemDev 2016. MIT License. */
+/*!
+ * Headstart is a copyright of RotemDev. (C) RotemDev 2016. MIT License.
+ * GitHub: RotemDev/Headstart
+ * jsDelivr: headstart-css
+ */
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 /**
  * 1. Change the default font family in all browsers (opinionated).
@@ -3615,6 +3619,17 @@ kbd {
   color: #eeeeee;
   border: 2px solid #111111;
   border-radius: 3px;
+}
+
+img.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+img.img-circle {
+  border: 4px solid transparent;
+  border-radius: 6px;
 }
 
 /*# sourceMappingURL=rotem.css.map */

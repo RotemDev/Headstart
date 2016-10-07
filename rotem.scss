@@ -1,5 +1,9 @@
 // The Main file. will compile to `rotem.css` and `rotem.css.map`. Contains only @imports and comments.
-/*! Headstart is a copyright of RotemDev. (C) RotemDev 2016. MIT License. */
+/*!
+ * Headstart is a copyright of RotemDev. (C) RotemDev 2016. MIT License.
+ * GitHub: RotemDev/Headstart
+ * jsDelivr: headstart-css
+ */
 // Normalize.css
 @import "normalize";
 
@@ -23,3 +27,6 @@
 
 // Code
 @import "code";
+
+// Images
+@import "images";
