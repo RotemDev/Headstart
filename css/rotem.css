@@ -3596,4 +3596,25 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
   content: "\f30c";
 }
 
+code {
+  background-color: #c8c8c8;
+  color: #bb3434;
+  border: 2px solid #c8c8c8;
+  border-radius: 3px;
+}
+
+pre.code, div.code {
+  font-family: monospace;
+  background-color: #c8c8c8;
+  color: #1e1e1e;
+}
+
+kbd {
+  font-family: monospace;
+  background-color: #111111;
+  color: #eeeeee;
+  border: 2px solid #111111;
+  border-radius: 3px;
+}
+
 /*# sourceMappingURL=rotem.css.map */
