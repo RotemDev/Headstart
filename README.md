@@ -8,13 +8,13 @@ Headstart is a CSS framework.
 
 ## Features:
 - [x] Brand Colors (Info, Success, Warning, Danger)
-- [x] Responsive Grid
+- [x] Responsive, Scalable Grid system
 - [x] Typography
 - [x] [Ionicons](http://www.ionicons.com/) Icon font
 - [ ] Navbars
 - [x] Mobile-first
 - [x] Code views
-- [ ] Responsive `<img>`s
+- [x] Responsive `<img>`s
 - [ ] Panels, Thumbnails, Cards
 - [ ] Custom forms
 - [ ] Color palates
@@ -34,7 +34,7 @@ To use jsDelivr's awesome CDN ***RECCOMMENDED***:
 
 To use self-hosting:
 
-Download Headstart from [here](https://cdn.jsdelivr.net/headstart-css/0.2.0/headstart-css.zip), extract it somewhere in your website, then:
+Download Headstart from [here](https://cdn.jsdelivr.net/headstart-css/0.3.1/headstart-css.zip), extract it somewhere in your website, then:
 ``` html
 <!-- main css file -->
 <link rel="stylesheet" href="path/to/rotem.min.css">
@@ -54,4 +54,4 @@ For example:
 ## Versioning
 The versioning system for stable releases is `MAJOR.MINOR.PATCH` (Semantic versioning).
 
-The versioning system for unstable (development) releases is `vMAJORDEV-YEARwWEEK-REVISION` (For example, the second release for v2 on week 21, 2017 is `v2-17w21-b`.)
+The versioning system for unstable (development) releases (Only from `v2`) is `vMAJORDEV-YEARwWEEK-REVISION` (For example, the second release for v2 on week 21, 2017 is `v2-17w21-b`.)

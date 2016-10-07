@@ -1,16 +1,19 @@
 // Base font
 $basefont-family: "Arial", sans-serif;
-$basefont-size: 16px;
-$basefont-style: normal;
+$basefont-size:                  16px;
+$basefont-style:               normal;
 
 // Base Colors
-$basecolor-text: #111111;
+$basecolor-text:                       #111111;
 $basecolor-background: invert($basecolor-text);
 
 // Grid
 $cols: 12;
+$width-sm:  768px;
+$width-md:  992px;
+$width-lg: 1170px;
 
 // Code
 $code-background: darken($basecolor-background, 15);
-$code-text: lighten($basecolor-text, 5);
-$code-inline-text: #bb3434;
+$code-text:             lighten($basecolor-text, 5);
+$code-inline-text:                          #bb3434;
