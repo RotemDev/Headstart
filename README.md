@@ -1,5 +1,8 @@
 # Headstart - Make beautiful webpages
-Headstart is a CSS framework. [View us on jsDelivr](http://www.jsdelivr.com/projects/headstart-css)!
+Headstart is a CSS framework.
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/RotemDev/Headstart/master/LICENSE)
+[![jsDelivr status](https://img.shields.io/badge/jsDelivr-0.3.1-brightgreen.svg)](https://cdn.jsdelivr.com/headstart-css/0.3.1/headstart-css.zip)
 
 ***We now have a release date! October 28<sup>th</sup>, 2016! (NOTE: The release date may change.)***
 
@@ -20,22 +23,6 @@ Headstart is a CSS framework. [View us on jsDelivr](http://www.jsdelivr.com/proj
 
 ## Install
 ***Note: The files that are currently marked as `"SOON"` will be added later.***
-
-To use raw.githack.com's CDN:
-``` html
-<!-- main css file -->
-<link rel="stylesheet" href="SOON">
-<!-- JS file -->
-<script src="SOON"></script>
-```
-
-To use rawgit.com's CDN:
-``` html
-<!-- main css file -->
-<link rel="stylesheet" href="SOON">
-<!-- JS file -->
-<script src="SOON"></script>
-```
 
 To use jsDelivr's awesome CDN ***RECCOMMENDED***:
 ``` html
