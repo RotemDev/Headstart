@@ -7,11 +7,11 @@ div.row {
     }
 
     div.col-md-#{$i} {
-      @include col(992px, $i, $cols);
+      @include col($width-md, $i, $cols);
     }
 
     div.col-lg-#{$i} {
-      @include col(1170px, $i, $cols);
+      @include col($width-lg, $i, $cols);
     }
   }
 }

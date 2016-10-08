@@ -523,7 +523,7 @@ div.row div.col-lg-1 {
   display: inline-block;
   box-sizing: border-box;
 }
-@media only screen and (min-width: 1170px) {
+@media only screen and (min-width: 1200px) {
   div.row div.col-lg-1 {
     width: 8.33333%;
     vertical-align: top;
@@ -559,7 +559,7 @@ div.row div.col-lg-2 {
   display: inline-block;
   box-sizing: border-box;
 }
-@media only screen and (min-width: 1170px) {
+@media only screen and (min-width: 1200px) {
   div.row div.col-lg-2 {
     width: 16.66667%;
     vertical-align: top;
@@ -595,7 +595,7 @@ div.row div.col-lg-3 {
   display: inline-block;
   box-sizing: border-box;
 }
-@media only screen and (min-width: 1170px) {
+@media only screen and (min-width: 1200px) {
   div.row div.col-lg-3 {
     width: 25%;
     vertical-align: top;
@@ -631,7 +631,7 @@ div.row div.col-lg-4 {
   display: inline-block;
   box-sizing: border-box;
 }
-@media only screen and (min-width: 1170px) {
+@media only screen and (min-width: 1200px) {
   div.row div.col-lg-4 {
     width: 33.33333%;
     vertical-align: top;
@@ -667,7 +667,7 @@ div.row div.col-lg-5 {
   display: inline-block;
   box-sizing: border-box;
 }
-@media only screen and (min-width: 1170px) {
+@media only screen and (min-width: 1200px) {
   div.row div.col-lg-5 {
     width: 41.66667%;
     vertical-align: top;
@@ -703,7 +703,7 @@ div.row div.col-lg-6 {
   display: inline-block;
   box-sizing: border-box;
 }
-@media only screen and (min-width: 1170px) {
+@media only screen and (min-width: 1200px) {
   div.row div.col-lg-6 {
     width: 50%;
     vertical-align: top;
@@ -739,7 +739,7 @@ div.row div.col-lg-7 {
   display: inline-block;
   box-sizing: border-box;
 }
-@media only screen and (min-width: 1170px) {
+@media only screen and (min-width: 1200px) {
   div.row div.col-lg-7 {
     width: 58.33333%;
     vertical-align: top;
@@ -775,7 +775,7 @@ div.row div.col-lg-8 {
   display: inline-block;
   box-sizing: border-box;
 }
-@media only screen and (min-width: 1170px) {
+@media only screen and (min-width: 1200px) {
   div.row div.col-lg-8 {
     width: 66.66667%;
     vertical-align: top;
@@ -811,7 +811,7 @@ div.row div.col-lg-9 {
   display: inline-block;
   box-sizing: border-box;
 }
-@media only screen and (min-width: 1170px) {
+@media only screen and (min-width: 1200px) {
   div.row div.col-lg-9 {
     width: 75%;
     vertical-align: top;
@@ -847,7 +847,7 @@ div.row div.col-lg-10 {
   display: inline-block;
   box-sizing: border-box;
 }
-@media only screen and (min-width: 1170px) {
+@media only screen and (min-width: 1200px) {
   div.row div.col-lg-10 {
     width: 83.33333%;
     vertical-align: top;
@@ -883,7 +883,7 @@ div.row div.col-lg-11 {
   display: inline-block;
   box-sizing: border-box;
 }
-@media only screen and (min-width: 1170px) {
+@media only screen and (min-width: 1200px) {
   div.row div.col-lg-11 {
     width: 91.66667%;
     vertical-align: top;
@@ -919,7 +919,7 @@ div.row div.col-lg-12 {
   display: inline-block;
   box-sizing: border-box;
 }
-@media only screen and (min-width: 1170px) {
+@media only screen and (min-width: 1200px) {
   div.row div.col-lg-12 {
     width: 100%;
     vertical-align: top;
@@ -4721,4 +4721,5 @@ var {
 .ion-xbox:before {
   content: "\f30c";
 }
+
 /*# sourceMappingURL=rotem.css.map */
