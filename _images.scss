@@ -8,3 +8,21 @@ img.img-circle {
   border: 4px solid transparent;
   border-radius: 6px;
 }
+
+img.img-left {
+  display: block;
+  margin-left: 0;
+  margin-right: auto;
+}
+
+img.img-right {
+  display: block;
+  margin-left: auto;
+  margin-right: 0;
+}
+
+img.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

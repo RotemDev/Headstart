@@ -4654,6 +4654,24 @@ img.img-circle {
   border-radius: 6px;
 }
 
+img.img-left {
+  display: block;
+  margin-left: 0;
+  margin-right: auto;
+}
+
+img.img-right {
+  display: block;
+  margin-left: auto;
+  margin-right: 0;
+}
+
+img.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /*
  * This is everything that doesn't fit into anything else
  */
@@ -4661,4 +4679,5 @@ var {
   font-family: serif;
   font-style: italic;
 }
+
 /*# sourceMappingURL=rotem.css.map */
