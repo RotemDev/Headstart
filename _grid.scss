@@ -2,15 +2,15 @@ div.row {
   @include row();
   
   @for $i from 1 through $cols {
-    div.col-small-#{$i} {
+    div.col-sm-#{$i} {
       @include col($width-sm, $i, $cols);
     }
 
-    div.col-medium-#{$i} {
+    div.col-md-#{$i} {
       @include col(992px, $i, $cols);
     }
 
-    div.col-large-#{$i} {
+    div.col-lg-#{$i} {
       @include col(1170px, $i, $cols);
     }
   }

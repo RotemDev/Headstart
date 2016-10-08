@@ -451,434 +451,434 @@ div.danger {
 div.row {
   font-size: 0;
 }
-div.row div.col-small-1 {
+div.row div.col-sm-1 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 768px) {
-  div.row div.col-small-1 {
+  div.row div.col-sm-1 {
     width: 8.33333%;
     vertical-align: top;
   }
 }
-div.row div.col-medium-1 {
+div.row div.col-md-1 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 992px) {
-  div.row div.col-medium-1 {
+  div.row div.col-md-1 {
     width: 8.33333%;
     vertical-align: top;
   }
 }
-div.row div.col-large-1 {
+div.row div.col-lg-1 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 1170px) {
-  div.row div.col-large-1 {
+  div.row div.col-lg-1 {
     width: 8.33333%;
     vertical-align: top;
   }
 }
-div.row div.col-small-2 {
+div.row div.col-sm-2 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 768px) {
-  div.row div.col-small-2 {
+  div.row div.col-sm-2 {
     width: 16.66667%;
     vertical-align: top;
   }
 }
-div.row div.col-medium-2 {
+div.row div.col-md-2 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 992px) {
-  div.row div.col-medium-2 {
+  div.row div.col-md-2 {
     width: 16.66667%;
     vertical-align: top;
   }
 }
-div.row div.col-large-2 {
+div.row div.col-lg-2 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 1170px) {
-  div.row div.col-large-2 {
+  div.row div.col-lg-2 {
     width: 16.66667%;
     vertical-align: top;
   }
 }
-div.row div.col-small-3 {
+div.row div.col-sm-3 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 768px) {
-  div.row div.col-small-3 {
+  div.row div.col-sm-3 {
     width: 25%;
     vertical-align: top;
   }
 }
-div.row div.col-medium-3 {
+div.row div.col-md-3 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 992px) {
-  div.row div.col-medium-3 {
+  div.row div.col-md-3 {
     width: 25%;
     vertical-align: top;
   }
 }
-div.row div.col-large-3 {
+div.row div.col-lg-3 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 1170px) {
-  div.row div.col-large-3 {
+  div.row div.col-lg-3 {
     width: 25%;
     vertical-align: top;
   }
 }
-div.row div.col-small-4 {
+div.row div.col-sm-4 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 768px) {
-  div.row div.col-small-4 {
+  div.row div.col-sm-4 {
     width: 33.33333%;
     vertical-align: top;
   }
 }
-div.row div.col-medium-4 {
+div.row div.col-md-4 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 992px) {
-  div.row div.col-medium-4 {
+  div.row div.col-md-4 {
     width: 33.33333%;
     vertical-align: top;
   }
 }
-div.row div.col-large-4 {
+div.row div.col-lg-4 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 1170px) {
-  div.row div.col-large-4 {
+  div.row div.col-lg-4 {
     width: 33.33333%;
     vertical-align: top;
   }
 }
-div.row div.col-small-5 {
+div.row div.col-sm-5 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 768px) {
-  div.row div.col-small-5 {
+  div.row div.col-sm-5 {
     width: 41.66667%;
     vertical-align: top;
   }
 }
-div.row div.col-medium-5 {
+div.row div.col-md-5 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 992px) {
-  div.row div.col-medium-5 {
+  div.row div.col-md-5 {
     width: 41.66667%;
     vertical-align: top;
   }
 }
-div.row div.col-large-5 {
+div.row div.col-lg-5 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 1170px) {
-  div.row div.col-large-5 {
+  div.row div.col-lg-5 {
     width: 41.66667%;
     vertical-align: top;
   }
 }
-div.row div.col-small-6 {
+div.row div.col-sm-6 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 768px) {
-  div.row div.col-small-6 {
+  div.row div.col-sm-6 {
     width: 50%;
     vertical-align: top;
   }
 }
-div.row div.col-medium-6 {
+div.row div.col-md-6 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 992px) {
-  div.row div.col-medium-6 {
+  div.row div.col-md-6 {
     width: 50%;
     vertical-align: top;
   }
 }
-div.row div.col-large-6 {
+div.row div.col-lg-6 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 1170px) {
-  div.row div.col-large-6 {
+  div.row div.col-lg-6 {
     width: 50%;
     vertical-align: top;
   }
 }
-div.row div.col-small-7 {
+div.row div.col-sm-7 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 768px) {
-  div.row div.col-small-7 {
+  div.row div.col-sm-7 {
     width: 58.33333%;
     vertical-align: top;
   }
 }
-div.row div.col-medium-7 {
+div.row div.col-md-7 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 992px) {
-  div.row div.col-medium-7 {
+  div.row div.col-md-7 {
     width: 58.33333%;
     vertical-align: top;
   }
 }
-div.row div.col-large-7 {
+div.row div.col-lg-7 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 1170px) {
-  div.row div.col-large-7 {
+  div.row div.col-lg-7 {
     width: 58.33333%;
     vertical-align: top;
   }
 }
-div.row div.col-small-8 {
+div.row div.col-sm-8 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 768px) {
-  div.row div.col-small-8 {
+  div.row div.col-sm-8 {
     width: 66.66667%;
     vertical-align: top;
   }
 }
-div.row div.col-medium-8 {
+div.row div.col-md-8 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 992px) {
-  div.row div.col-medium-8 {
+  div.row div.col-md-8 {
     width: 66.66667%;
     vertical-align: top;
   }
 }
-div.row div.col-large-8 {
+div.row div.col-lg-8 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 1170px) {
-  div.row div.col-large-8 {
+  div.row div.col-lg-8 {
     width: 66.66667%;
     vertical-align: top;
   }
 }
-div.row div.col-small-9 {
+div.row div.col-sm-9 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 768px) {
-  div.row div.col-small-9 {
+  div.row div.col-sm-9 {
     width: 75%;
     vertical-align: top;
   }
 }
-div.row div.col-medium-9 {
+div.row div.col-md-9 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 992px) {
-  div.row div.col-medium-9 {
+  div.row div.col-md-9 {
     width: 75%;
     vertical-align: top;
   }
 }
-div.row div.col-large-9 {
+div.row div.col-lg-9 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 1170px) {
-  div.row div.col-large-9 {
+  div.row div.col-lg-9 {
     width: 75%;
     vertical-align: top;
   }
 }
-div.row div.col-small-10 {
+div.row div.col-sm-10 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 768px) {
-  div.row div.col-small-10 {
+  div.row div.col-sm-10 {
     width: 83.33333%;
     vertical-align: top;
   }
 }
-div.row div.col-medium-10 {
+div.row div.col-md-10 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 992px) {
-  div.row div.col-medium-10 {
+  div.row div.col-md-10 {
     width: 83.33333%;
     vertical-align: top;
   }
 }
-div.row div.col-large-10 {
+div.row div.col-lg-10 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 1170px) {
-  div.row div.col-large-10 {
+  div.row div.col-lg-10 {
     width: 83.33333%;
     vertical-align: top;
   }
 }
-div.row div.col-small-11 {
+div.row div.col-sm-11 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 768px) {
-  div.row div.col-small-11 {
+  div.row div.col-sm-11 {
     width: 91.66667%;
     vertical-align: top;
   }
 }
-div.row div.col-medium-11 {
+div.row div.col-md-11 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 992px) {
-  div.row div.col-medium-11 {
+  div.row div.col-md-11 {
     width: 91.66667%;
     vertical-align: top;
   }
 }
-div.row div.col-large-11 {
+div.row div.col-lg-11 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 1170px) {
-  div.row div.col-large-11 {
+  div.row div.col-lg-11 {
     width: 91.66667%;
     vertical-align: top;
   }
 }
-div.row div.col-small-12 {
+div.row div.col-sm-12 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 768px) {
-  div.row div.col-small-12 {
+  div.row div.col-sm-12 {
     width: 100%;
     vertical-align: top;
   }
 }
-div.row div.col-medium-12 {
+div.row div.col-md-12 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 992px) {
-  div.row div.col-medium-12 {
+  div.row div.col-md-12 {
     width: 100%;
     vertical-align: top;
   }
 }
-div.row div.col-large-12 {
+div.row div.col-lg-12 {
   width: 100%;
   font-size: 16px;
   display: inline-block;
   box-sizing: border-box;
 }
 @media only screen and (min-width: 1170px) {
-  div.row div.col-large-12 {
+  div.row div.col-lg-12 {
     width: 100%;
     vertical-align: top;
   }
