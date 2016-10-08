@@ -462,6 +462,15 @@ html {
   box-sizing: border-box;
 }
 
+div.container {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.container-fluid {
+  width: 100%;
+}
+
 div.info {
   color: #0093ff;
   background-color: #acdcff;
@@ -4721,4 +4730,5 @@ var {
 .ion-xbox:before {
   content: "\f30c";
 }
+
 /*# sourceMappingURL=rotem.css.map */
