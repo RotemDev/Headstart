@@ -453,7 +453,7 @@ template {
 }
 
 html {
-  font: normal normal normal 16px normal "Arial", sans-serif;
+  font: 16px "Arial", sans-serif;
   color: #111111;
   background-color: #eeeeee;
 }
@@ -4721,4 +4721,5 @@ var {
 .ion-xbox:before {
   content: "\f30c";
 }
+
 /*# sourceMappingURL=rotem.css.map */
