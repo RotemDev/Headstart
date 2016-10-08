@@ -966,6 +966,64 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
   color: #888;
 }
 
+code {
+  background-color: #c8c8c8;
+  color: #bb3434;
+  border: 2px solid #c8c8c8;
+  border-radius: 3px;
+}
+
+pre.code, div.code {
+  font-family: monospace;
+  background-color: #c8c8c8;
+  color: #1e1e1e;
+}
+
+kbd {
+  font-family: monospace;
+  background-color: #111111;
+  color: #eeeeee;
+  border: 2px solid #111111;
+  border-radius: 3px;
+}
+
+img.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+img.img-circle {
+  border: 4px solid transparent;
+  border-radius: 6px;
+}
+
+img.img-left {
+  display: block;
+  margin-left: 0;
+  margin-right: auto;
+}
+
+img.img-right {
+  display: block;
+  margin-left: auto;
+  margin-right: 0;
+}
+
+img.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*
+ * This is everything that doesn't fit into anything else
+ */
+var {
+  font-family: serif;
+  font-style: italic;
+}
+
 /*!
   Ionicons, v2.0.1
   Created by Ben Sperry for the Ionic Framework, http://ionicons.com/
@@ -4662,64 +4720,6 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 
 .ion-xbox:before {
   content: "\f30c";
-}
-
-code {
-  background-color: #c8c8c8;
-  color: #bb3434;
-  border: 2px solid #c8c8c8;
-  border-radius: 3px;
-}
-
-pre.code, div.code {
-  font-family: monospace;
-  background-color: #c8c8c8;
-  color: #1e1e1e;
-}
-
-kbd {
-  font-family: monospace;
-  background-color: #111111;
-  color: #eeeeee;
-  border: 2px solid #111111;
-  border-radius: 3px;
-}
-
-img.img-responsive {
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
-
-img.img-circle {
-  border: 4px solid transparent;
-  border-radius: 6px;
-}
-
-img.img-left {
-  display: block;
-  margin-left: 0;
-  margin-right: auto;
-}
-
-img.img-right {
-  display: block;
-  margin-left: auto;
-  margin-right: 0;
-}
-
-img.img-center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/*
- * This is everything that doesn't fit into anything else
- */
-var {
-  font-family: serif;
-  font-style: italic;
 }
 
 /*# sourceMappingURL=rotem.css.map */
