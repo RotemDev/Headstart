@@ -1,6 +1,6 @@
 div.row {
   @include row();
-  
+
   @for $i from 1 through $cols {
     div.col-sm-#{$i} {
       @include col($width-sm, $i, $cols);
