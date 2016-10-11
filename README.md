@@ -27,7 +27,7 @@ Headstart is a CSS framework.
 ## Install
 ***Note: The files that are currently marked as `"SOON"` will be added later.***
 
-To use jsDelivr's awesome CDN ***RECCOMMENDED***:
+To use jsDelivr's ~~awesome~~ CDN ***RECCOMMENDED***:
 ``` html
 <!-- Main CSS File -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/headstart-css/0.3.1/rotem.min.css">
