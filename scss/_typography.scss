@@ -25,3 +25,17 @@ h5 {
 h6 {
   @include header(0.768);
 }
+
+a {
+  font-style: $a-font-style;
+  text-decoration: none;
+  color: $a-color;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: $a-visited-color;
+}

@@ -17,7 +17,6 @@ $code-background: darken($basecolor-background, 15);
 $code-text:             lighten($basecolor-text, 5);
 $code-inline-text:                          #bb3434;
 
-
 // Colors
 $color-primary:           #333333;
 $color-secondary:         #dddddd;
@@ -29,3 +28,8 @@ $color-warning:           #ffbb33;
 $color-warning-secondary: #ffe763;
 $color-danger:            #db0000;
 $color-danger-secondary:  #ff9a9a;
+
+// Typography: <a>
+$a-font-style:                    italic;
+$a-color:                        #008d8d;
+$a-visited-color: lighten($a-color, 5%);
