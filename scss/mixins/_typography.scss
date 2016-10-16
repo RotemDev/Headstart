@@ -1,6 +1,6 @@
 @mixin header($multiplier) {
   font-weight: bold;
-  $finalfont-size: $basefont-size * $multiplier;
+  $finalfont-size: 1em * $multiplier;
   font-size: $finalfont-size;
   small {
     display: inline;

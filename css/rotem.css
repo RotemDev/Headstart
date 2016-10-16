@@ -941,56 +941,56 @@ p {
 
 h1 {
   font-weight: bold;
-  font-size: 64px;
+  font-size: 4em;
 }
 h1 small {
   display: inline;
-  font-size: 48px;
+  font-size: 3em;
 }
 
 h2 {
   font-weight: bold;
-  font-size: 48px;
+  font-size: 3em;
 }
 h2 small {
   display: inline;
-  font-size: 36px;
+  font-size: 2.25em;
 }
 
 h3 {
   font-weight: bold;
-  font-size: 32px;
+  font-size: 2em;
 }
 h3 small {
   display: inline;
-  font-size: 24px;
+  font-size: 1.5em;
 }
 
 h4 {
   font-weight: bold;
-  font-size: 16px;
+  font-size: 1em;
 }
 h4 small {
   display: inline;
-  font-size: 12px;
+  font-size: 0.75em;
 }
 
 h5 {
   font-weight: bold;
-  font-size: 13.6px;
+  font-size: 0.85em;
 }
 h5 small {
   display: inline;
-  font-size: 10.2px;
+  font-size: 0.6375em;
 }
 
 h6 {
   font-weight: bold;
-  font-size: 12.288px;
+  font-size: 0.768em;
 }
 h6 small {
   display: inline;
-  font-size: 9.216px;
+  font-size: 0.576em;
 }
 
 a {
