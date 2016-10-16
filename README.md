@@ -1,11 +1,8 @@
-# Headstart - Make beautiful webpages
+# Headstart - Make beautiful webpages [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/RotemDev/Headstart/master/LICENSE) [![GitHub release](https://img.shields.io/github/release/RotemDev/Headstart.svg)](https://github.com/RotemDev/Headstart/releases/latest) [![jsDelivr status](https://img.shields.io/badge/jsDelivr-0.3.1-red.svg)](https://cdn.jsdelivr.com/headstart-css/0.3.1/headstart-css.zip) [![Gitter Chat](https://badges.gitter.im/RotemDev/Headstart.svg)](https://gitter.im/RotemDev/Headstart?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 Headstart is a CSS framework.
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/RotemDev/Headstart/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/RotemDev/Headstart.svg)](https://github.com/RotemDev/Headstart/releases/latest)
-[![jsDelivr status](https://img.shields.io/badge/jsDelivr-0.3.1-red.svg)](https://cdn.jsdelivr.com/headstart-css/0.3.1/headstart-css.zip)
-[![Gitter Chat](https://badges.gitter.im/RotemDev/Headstart.svg)](https://gitter.im/RotemDev/Headstart?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ***We now have a release date! October 28<sup>th</sup>, 2016! (NOTE: The release date may change.)***
 
