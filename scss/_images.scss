@@ -4,9 +4,14 @@ img.img-responsive {
   height: auto;
 }
 
-img.img-circle {
+img.img-rounded {
   border: 4px solid transparent;
   border-radius: 6px;
+}
+
+img.img-circle {
+  border: 4px solid transparent;
+  border-radius: 50%;
 }
 
 img.img-left {

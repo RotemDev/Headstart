@@ -1,0 +1,15 @@
+@mixin row() {
+  font-size: 0;
+}
+
+@mixin col($min-width, $col, $sum, $align: top) {
+  width: 100%;
+  font-size: $basefont-size;
+  display: inline-block;
+  box-sizing: border-box;
+
+  @media only screen and (min-width: $min-width) {
+    width: percentage($col/$sum);
+    vertical-align: $align;
+  }
+}

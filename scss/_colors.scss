@@ -1,19 +1,19 @@
 // Info div with border
-div.info {
+.info {
   @include kit-color($color-info, $color-info-secondary);
 }
 
 // Success div with border
-div.success {
+.success {
   @include kit-color($color-success, $color-success-secondary);
 }
 
 // Warning div with border
-div.warning {
+.warning {
   @include kit-color($color-warning, $color-warning-secondary);
 }
 
 // Danger div with border
-div.danger {
+.danger {
   @include kit-color($color-danger, $color-danger-secondary);
 }

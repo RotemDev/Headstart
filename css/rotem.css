@@ -4,7 +4,7 @@
  * GitHub: RotemDev/Headstart
  * jsDelivr: headstart-css
  */
-/*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
+/* normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
 /**
  * 1. Change the default font family in all browsers (opinionated).
  * 2. Correct the line height in all browsers.
@@ -471,28 +471,28 @@ div.container-fluid {
   width: 100%;
 }
 
-div.info {
+.info {
   color: #0093ff;
   background-color: #acdcff;
   border: 2px solid #0093ff;
   border-radius: 4px;
 }
 
-div.success {
+.success {
   color: #05b212;
   background-color: #62e66c;
   border: 2px solid #05b212;
   border-radius: 4px;
 }
 
-div.warning {
+.warning {
   color: #ffbb33;
   background-color: #ffe763;
   border: 2px solid #ffbb33;
   border-radius: 4px;
 }
 
-div.danger {
+.danger {
   color: #db0000;
   background-color: #ff9a9a;
   border: 2px solid #db0000;
@@ -943,36 +943,54 @@ h1 {
   font-weight: bold;
   font-size: 64px;
 }
+h1 small {
+  display: inline;
+  font-size: 48px;
+}
 
 h2 {
   font-weight: bold;
   font-size: 48px;
+}
+h2 small {
+  display: inline;
+  font-size: 36px;
 }
 
 h3 {
   font-weight: bold;
   font-size: 32px;
 }
+h3 small {
+  display: inline;
+  font-size: 24px;
+}
 
 h4 {
   font-weight: bold;
   font-size: 16px;
 }
+h4 small {
+  display: inline;
+  font-size: 12px;
+}
 
 h5 {
   font-weight: bold;
-  font-size: 12px;
+  font-size: 13.6px;
+}
+h5 small {
+  display: inline;
+  font-size: 10.2px;
 }
 
 h6 {
   font-weight: bold;
-  font-size: 10.8px;
+  font-size: 12.288px;
 }
-
-h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
-  font-weight: normal;
-  font-size: 11px;
-  color: #888;
+h6 small {
+  display: inline;
+  font-size: 9.216px;
 }
 
 code {
@@ -1002,9 +1020,14 @@ img.img-responsive {
   height: auto;
 }
 
-img.img-circle {
+img.img-rounded {
   border: 4px solid transparent;
   border-radius: 6px;
+}
+
+img.img-circle {
+  border: 4px solid transparent;
+  border-radius: 50%;
 }
 
 img.img-left {
@@ -1033,7 +1056,7 @@ var {
   font-style: italic;
 }
 
-/*!
+/*
   Ionicons, v2.0.1
   Created by Ben Sperry for the Ionic Framework, http://ionicons.com/
   https://twitter.com/benjsperry  https://twitter.com/ionicframework
