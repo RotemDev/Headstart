@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Compile SCSS to CSS and minified CSSsass -t expanded scss/rotem.scss css/rotem.css > compile.log
+# Compile SCSS to CSS and minified CSS
 echo -ne "Compiling [#    ] : Human-readable CSS\r"
 sass -t expanded scss/rotem.scss css/rotem.css > compile.log
 echo -ne "Compiling [##   ] : Minified CSS\r"
