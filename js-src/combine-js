@@ -2,4 +2,4 @@
 
 # template: cat <FILE>.js >> ../js-dist/rotem.js
 
-echo "// Headstart JS modules" > /home/rootem/git/Headstart/js-dist/rotem.js
+echo "// Headstart JS modules" > ../js-dist/rotem.js
