@@ -10,6 +10,6 @@ sass -t compressed scss/rotem.scss css/rotem.min.css >> compile.log
 echo -ne "Compiling [###  ] : Human-readable JS\r"
 ./js-src/combine-js >> compile.log
 echo -ne "Compiling [#### ] : Minified JS\r"
-java -jar lib/yuicompressor-2.4.8.jar -o js-dist/rotem.min.js js-dist/rotem.js
+java -jar lib/yuicompressor-2.4.8.jar -o js-dist/rotem.min.js js-dist/rotem.js >> compile.log
 echo -ne "Compiling [#####] : DONE"
 echo "\n"
