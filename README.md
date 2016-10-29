@@ -57,7 +57,7 @@ The versioning system for unstable (development) releases (Only from `v2`) is `v
 To compile from sources on Linux/macOS (Windows is not supported, and will **not** be in the future):
 
 You need to have jdk and ruby-sass installed. To install, Type in the terminal:
-``` bash
+``` sh
 $ sudo apt-get install ruby-sass openjdk-8-jdk # Debian-based distros
 $ sudo yum install rubygems openjdk-8-jdk && sudo gem install sass # Fedora-based distros
 $ sudo pacman install ruby-sass openjdk-8-jdk # Arch-based distros
@@ -66,7 +66,7 @@ $ sudo gem install sass # macOS and other ruby-enabled distros. For JDK, downloa
 On debian-based and arch-based distros, the command will install ruby as well as sass and java. On fedora-based distros, the command will install ruby and java, and then sass. On macOS and other distros with ruby installed, the rubygems package manager will install sass.
 
 Then do:
-``` bash
+``` sh
 $ git clone https://github.com/RotemDev/Headstart.git # Clone the repository
 $ cd Headstart
 $ ./compile # Run the compile script.
