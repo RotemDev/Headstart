@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Compile SCSS to CSS and minified CSSsass -t expanded scss/rotem.scss css/rotem.css > compile.log
+echo -ne "Compiling [#   ] : Human-readable CSS\r"
+sass -t expanded scss/rotem.scss css/rotem.css > compile.log
+echo -ne "Compiling [##  ] : Minified CSS\r"
+sass -t compressed scss/rotem.scss css/rotem.min.css >> compile.log
+
+# Combine JS and minify
+echo -ne "Compiling [### ] : Human-readable JS\r"
+./js-src/combine-js >> compile.log
+echo -ne "Compiling [####] : Minified JS\r"
+java -jar lib/yuicompressor-2.4.8.jar -o js-dist/rotem.min.js js-dist/rotem.js

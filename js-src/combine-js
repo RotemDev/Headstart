@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# template: cat <FILE>.js >> rotem.js
+
+echo "// Headstart JS modules" > ../js-dist/rotem.js
