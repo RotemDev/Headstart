@@ -70,6 +70,6 @@ Then do:
 $ git clone https://github.com/RotemDev/Headstart.git # Clone the repository
 $ cd Headstart
 $ ./compile # Run the compile script.
-$ cat compile.log (to see the compilation log).
+$ cat compile.log # (to see the compilation log).
 ```
 Then, the compiled CSS files and fonts are located at `<CLONING_DIR>/css/`, and the compiled JS files are at `<CLONING_DIR>/js-dist/`
