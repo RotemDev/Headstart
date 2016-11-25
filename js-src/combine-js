@@ -1,5 +1,6 @@
 #!/bin/bash
 
-# template: cat <FILE>.js >> ../js-dist/rotem.js
-
-echo "// Headstart JS modules" > ../js-dist/rotem.js
+export jsfile=readlink -f ../js-dist/rotem.js
+# template: cat FILE.js FILE2.js ... >> $jsfile
+echo "// Headstart JS modules" > $jsfile
+cat >> $jsfile
